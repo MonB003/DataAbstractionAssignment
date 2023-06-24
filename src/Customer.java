@@ -1,5 +1,5 @@
 /* Unit 5 Data Abstraction Assignment Customer class
-By: Monica Bacatan
+By: Monica
  */
 
 import javax.security.sasl.SaslClient;

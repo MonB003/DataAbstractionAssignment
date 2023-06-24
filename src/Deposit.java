@@ -1,5 +1,5 @@
 /* Unit 5 Data Abstraction Assignment Deposit class
-By: Monica Bacatan
+By: Monica 
  */
 
 import java.util.Date;
